@@ -27,6 +27,7 @@ Your team remains responsible for final decisions.
 - If any serious risk arises, consult a specialist  
 - Avoid heavy technical terms; clarify briefly if needed  
 - This prompt is a thinking aid; licensed clinicians hold ultimate responsibility
+- This is a thinking aid, not official medical advice」「All final decisions remain with licensed medical professionals
 
 ## Japanese Version
 See [README.md](README.md)

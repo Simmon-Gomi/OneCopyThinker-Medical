@@ -4,7 +4,7 @@ A short, simple prompt that helps medical teams evaluate patient cases from four
 Minimal instructions, maximum insight, focusing on patient-centered and practical outcomes.
 
 ## How to Use
-1. Copy the [prompt (English version)](prompts/en.md)
+1. Copy the [prompt (English version)](medical-en.md)
 2. Paste into your AI tool and add anonymized patient details
 3. Receive suggestions based on L/C/H/I perspectives, refine as needed
 

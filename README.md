@@ -1,0 +1,2 @@
+# onecopythinker-medical
+OneCopyThinker医療版の実装と解説リポジトリ

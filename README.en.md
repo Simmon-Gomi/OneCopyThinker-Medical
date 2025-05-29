@@ -1,36 +1,54 @@
-# OneCopyThinker: Medical Edition
+# OneCopyThinker-Medical
 
-A short, simple prompt that helps medical teams evaluate patient cases from four perspectives.  
-Minimal instructions, maximum insight, focusing on patient-centered and practical outcomes.
+**One-copy prompt for multi-perspective medical decision support**
 
-## How to Use
-1. Copy the [prompt (English version)](medical-en.md)
-2. Paste into your AI tool and add anonymized patient details
-3. Receive suggestions based on L/C/H/I perspectives, refine as needed
+Copy → Paste → Comprehensive analysis in 4 perspectives
 
-## Four Perspectives
-- **L: Evidence** (Medical facts/guidelines)
-- **C: Creativity** (New ideas, alternatives)
-- **H: Patient** (Emotions, lifestyle, family)
-- **I: Integration** (Combine all into practical proposals)
+## Features
+
+- 🩺 **Medical-focused**: L(Logic)・C(Creative)・H(Human)・I(Integrated) perspectives
+- ⚡ **One-copy setup**: No complex configuration, instant deployment
+- 🎯 **Practical output**: Actionable suggestions for clinical practice
+- 🔒 **Safety-first**: Anonymization required, human final judgment
+
+## Usage
+
+1. **Copy** the entire [prompt file](medical-en.md)
+2. **Paste** as system instruction in AI tools (ChatGPT/Claude/etc.)
+3. **Input** anonymized patient information
+4. **Receive** L→C→H→I sequential recommendations for review
 
 ## Example
-Patient info: 80-year-old woman, lives alone, mild dementia, history of falls
-L: High fall risk
-C: Sensor mat, improved lighting
-H: Refuses nursing home, strongly prefers staying home
-I: Continue at home with visiting nurse and family support
-Your team remains responsible for final decisions.
 
-## Notes
-- Always anonymize patient info  
-- If any serious risk arises, consult a specialist  
-- Avoid heavy technical terms; clarify briefly if needed  
-- This prompt is a thinking aid; licensed clinicians hold ultimate responsibility
-- This is a thinking aid, not official medical advice」「All final decisions remain with licensed medical professionals
+**Input:**
+```
+80-year-old female, living alone, mild dementia, history of falls
+```
 
-## Japanese Version
-See [README.md](README.md)
+**Output:**
+- **L (Logic)**: High fall risk, cognitive impairment affecting judgment
+- **C (Creative)**: Sensor mats, additional handrails, monitoring services
+- **H (Human)**: Refuses facility care, strong preference for home-based living
+- **I (Integrated)**: Home nursing twice weekly with family support system
+
+## Important Notes
+
+- **Always anonymize patient information**
+- **AI suggestions are advisory only; medical professionals bear final responsibility**
+- **For emergencies/critical symptoms, seek immediate appropriate care instead**
+
+## Compatible AI
+
+ChatGPT, Claude, Gemini, and other major AI chat platforms
+
+## Feedback
+
+Suggestions and feedback welcome via [Issues](../../issues)
 
 ## License
-MIT License
+
+Licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+**Disclaimer**: This prompt is a cognitive aid tool. Medical decisions and responsibilities rest with healthcare professionals.

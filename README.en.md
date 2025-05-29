@@ -4,6 +4,10 @@
 
 Copy → Paste → Comprehensive analysis in 4 perspectives
 
+## Theoretical Background
+
+The L/C/H/I four-perspective framework integrates Evidence-Based Medicine (EBM), creative solutions, patient-centered care, and holistic optimization—reflecting multidisciplinary team thinking. It consolidates established clinical approaches (such as SBAR and quadrant analysis) into concise guidance, enabling rapid multi-faceted evaluation even in complex cases.
+
 ## Features
 
 - 🩺 **Medical-focused**: L(Logic)・C(Creative)・H(Human)・I(Integrated) perspectives

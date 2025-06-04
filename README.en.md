@@ -2,9 +2,11 @@ markdown# OneCopyThinker-Medical
 
 A structured prompt template for medical AI patient information input (for healthcare professionals)
 
+[日本語](README.md)
+
 ## How to Use
 
-1. Copy [prompt.txt](prompt.txt)
+1. Copy [medical-en.md](medical-en.md)
 2. Add patient information (exclude personal identifiers)
 3. AI analyzes from 4 perspectives
 

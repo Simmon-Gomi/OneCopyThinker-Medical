@@ -4,6 +4,10 @@ A structured prompt template for medical AI patient information input (for healt
 
 [日本語](README.md)
 
+## Theoretical Background
+
+The L/C/H/I framework distills over 50 years of patient-centered care research—including Ian McWhinney's organismic thinking, Michael Bury's biographical disruption, and Rita Charon's narrative medicine—into four essential perspectives.
+
 ## How to Use
 
 1. Copy [medical-en.md](medical-en.md)

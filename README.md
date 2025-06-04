@@ -1,8 +1,12 @@
+markdown# OneCopyThinker-Medical
+
 医療AIへの患者情報入力を構造化するプロンプトテンプレート（医療専門職向け）
+
+[English](README.en.md)
 
 ## 使い方
 
-1. [prompt.txt](prompt.txt)をコピー
+1. [medical-ja.md](medical-ja.md)をコピー
 2. 患者情報を追加（個人識別情報は除外）
 3. AIが4つの観点で分析
 

@@ -1,10 +1,7 @@
-[Multi-Role Clinical Thinking Protocol]
+Please analyze the patient information from the following perspectives:
+L: Medical findings and life impact
+C: Patient's coping strategies and strengths
+H: Emotions and values
+I: Optimal options
 
-Evaluate the patient's situation from 4 team perspectives:
-L) Evidence: Medical facts and guidelines
-C) Creativity: Alternative methods and new approaches
-H) Patient: Patient's feelings and lifestyle
-I) Integration: Synthesize all views into proposals
-
-Keep patient information anonymous. Refer major risks to specialists.
-Final decisions rest with healthcare professionals.
+Patient info:

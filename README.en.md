@@ -1,29 +1,31 @@
-# OneCopyThinker-Medical
+markdown# OneCopyThinker-Medical
 
-A minimal thinking framework for patient-centered care
-
-## Why These Four Questions Are Enough
-
-These simple four questions distill the essence of over 50 years of patient-centered care research, including Ian McWhinney's organismic thinking, Michael Bury's biographical disruption, and Rita Charon's narrative medicine.
-
-They function not as a formal checklist, but as a catalyst for genuine patient encounters.
+A structured prompt template for medical AI patient information input (for healthcare professionals)
 
 ## How to Use
 
-Copy and use. That's all.
+1. Copy [prompt.txt](prompt.txt)
+2. Add patient information (exclude personal identifiers)
+3. AI analyzes from 4 perspectives
 
-## Four Perspectives
+## Example
 
-- **L**: Logic-based inquiry (integrating medicine and life context)
-- **C**: Creative collaboration (leveraging patient agency)
-- **H**: Human understanding (meaning of illness and narrative)
-- **I**: Integrated decision-making (shared decision making)
+Input:
+Patient info: 60yo male, dyspnea on stairs for 3 months. Uses elevator to cope. Father had heart disease, anxious about work continuation.
 
-## How to Deepen
+AI Analysis:
+L: Progressive exertional dyspnea. Cardiac differential needed
+C: Shows adaptive capacity with elevator use
+H: Genetic anxiety and fear of job loss
+I: Propose staged return-to-work plan after evaluation
 
-Discover for yourself through daily practice.
-The depth of these questions reveals itself through use.
+## ⚠️ Important Notice
+
+**AI output is reference information for clinical support only. Final diagnostic and treatment decisions must be made by healthcare professionals.**
+
+- Do not input personal identifiers
+- Not recommended for non-medical professionals
 
 ## License
 
-MIT License
+MIT License (Users bear full responsibility for medical applications)
